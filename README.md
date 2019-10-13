@@ -5,3 +5,4 @@ In this project, I wrote a program that measures typing speed. Additionally, I i
 
 For more detailed project instructions visit https://cs61a.org/proj/cats/
 
+Note: for original code, see <b> typing.py </b>
